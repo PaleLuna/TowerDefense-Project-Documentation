@@ -55,7 +55,7 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "_area_tower_8cs.html",
-"class_tower_combat.html"
+"class_global_u_i_events_1_1_u_i_events.html#a5894185f47e8192d83737cab3a00a60f"
 ];
 
 var SYNCONMSG = 'нажмите на выключить для синхронизации панелей';

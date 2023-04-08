@@ -1,5 +1,6 @@
 var namespaces_dup =
 [
+    [ "Buildings", "namespace_buildings.html", "namespace_buildings" ],
     [ "ConfigClasses", "namespace_config_classes.html", "namespace_config_classes" ],
     [ "DamageTypes", "namespace_damage_types.html", "namespace_damage_types" ],
     [ "GlobalUIEvents", "namespace_global_u_i_events.html", "namespace_global_u_i_events" ],

@@ -1,4 +1,4 @@
 var _tower_state_8cs =
 [
-    [ "TowerState", "class_tower_state.html", "class_tower_state" ]
+    [ "Buildings.TowerStates.TowerState", "class_buildings_1_1_tower_states_1_1_tower_state.html", "class_buildings_1_1_tower_states_1_1_tower_state" ]
 ];

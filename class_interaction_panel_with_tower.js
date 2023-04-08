@@ -8,5 +8,5 @@ var class_interaction_panel_with_tower =
     [ "_currentTacticalPoint", "class_interaction_panel_with_tower.html#a991f45e58454c17926968b2c8f6cb0ae", null ],
     [ "_offset", "class_interaction_panel_with_tower.html#ae7749a6f35d90d9980f5d1d3a5b2e923", null ],
     [ "_panel", "class_interaction_panel_with_tower.html#a2ecd2d6e78b552016638841c1f0ad3e7", null ],
-    [ "_towerManager", "class_interaction_panel_with_tower.html#a55eb97c6be428da460407ff51c688df5", null ]
+    [ "_towerManager", "class_interaction_panel_with_tower.html#a01a15bd0a32b2f4a350cd39d90a3c4c2", null ]
 ];

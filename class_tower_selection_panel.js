@@ -7,5 +7,5 @@ var class_tower_selection_panel =
     [ "_currentTacticalPoint", "class_tower_selection_panel.html#ad070c36f0621ea6353b494fea9cd5200", null ],
     [ "_offset", "class_tower_selection_panel.html#aea19b4d1025c1cc6e160438e7e5e282a", null ],
     [ "_panel", "class_tower_selection_panel.html#abf760c7a6757754c9c87fee8c3f49eee", null ],
-    [ "buildingBuilder", "class_tower_selection_panel.html#a4fa02947355791b2308b12f3e456da6a", null ]
+    [ "buildingBuilder", "class_tower_selection_panel.html#afd855711f3065c8d5901ede3111dac54", null ]
 ];

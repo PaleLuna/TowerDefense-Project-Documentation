@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['damagetypes_0',['DamageTypes',['../namespace_damage_types.html',1,'']]]
+  ['buildingconfig_0',['BuildingConfig',['../namespace_config_classes_1_1_building_config.html',1,'ConfigClasses']]],
+  ['configclasses_1',['ConfigClasses',['../namespace_config_classes.html',1,'']]]
 ];

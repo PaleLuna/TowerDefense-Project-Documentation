@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['walletscript_0',['walletScript',['../class_building_builder.html#a0a402a59c6a130e8ef3af26f190aeaec',1,'BuildingBuilder']]]
+  ['walletscript_0',['walletScript',['../class_building_manager.html#a6e594ecb0b4db6a584e510673fdabc56',1,'BuildingManager']]]
 ];

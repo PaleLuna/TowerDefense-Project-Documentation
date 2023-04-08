@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['orientation_0',['Orientation',['../namespace_orientation.html',1,'']]]
+  ['globaluievents_0',['GlobalUIEvents',['../namespace_global_u_i_events.html',1,'']]]
 ];

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['globaluievents_0',['GlobalUIEvents',['../namespace_global_u_i_events.html',1,'']]]
+  ['damagetypes_0',['DamageTypes',['../namespace_damage_types.html',1,'']]]
 ];
