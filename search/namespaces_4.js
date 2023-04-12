@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['orientation_0',['Orientation',['../namespace_orientation.html',1,'']]]
+  ['managers_0',['Managers',['../namespace_managers.html',1,'']]]
 ];

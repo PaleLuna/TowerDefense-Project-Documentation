@@ -1,4 +1,4 @@
 var _interaction_manager_8cs =
 [
-    [ "InteractionManager", "class_interaction_manager.html", "class_interaction_manager" ]
+    [ "Managers.InteractionManager", "class_managers_1_1_interaction_manager.html", "class_managers_1_1_interaction_manager" ]
 ];

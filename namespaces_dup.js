@@ -4,6 +4,7 @@ var namespaces_dup =
     [ "ConfigClasses", "namespace_config_classes.html", "namespace_config_classes" ],
     [ "DamageTypes", "namespace_damage_types.html", "namespace_damage_types" ],
     [ "GlobalUIEvents", "namespace_global_u_i_events.html", "namespace_global_u_i_events" ],
+    [ "Managers", "namespace_managers.html", "namespace_managers" ],
     [ "Orientation", "namespace_orientation.html", "namespace_orientation" ],
     [ "StatsEnums", "namespace_stats_enums.html", [
       [ "Levels", "namespace_stats_enums.html#a6cf98e8e5fbba4912c31a77a64c3ecd3", [

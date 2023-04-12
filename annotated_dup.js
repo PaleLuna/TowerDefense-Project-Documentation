@@ -26,6 +26,9 @@ var annotated_dup =
     [ "GlobalUIEvents", "namespace_global_u_i_events.html", [
       [ "UIEvents", "class_global_u_i_events_1_1_u_i_events.html", "class_global_u_i_events_1_1_u_i_events" ]
     ] ],
+    [ "Managers", "namespace_managers.html", [
+      [ "InteractionManager", "class_managers_1_1_interaction_manager.html", "class_managers_1_1_interaction_manager" ]
+    ] ],
     [ "Orientation", "namespace_orientation.html", [
       [ "Orientation", "class_orientation_1_1_orientation.html", "class_orientation_1_1_orientation" ]
     ] ],
@@ -37,7 +40,6 @@ var annotated_dup =
     [ "DisplayingBalance", "class_displaying_balance.html", "class_displaying_balance" ],
     [ "Enemy", "class_enemy.html", null ],
     [ "IInteractable", "interface_i_interactable.html", "interface_i_interactable" ],
-    [ "InteractionManager", "class_interaction_manager.html", "class_interaction_manager" ],
     [ "InteractionPanelWithTower", "class_interaction_panel_with_tower.html", "class_interaction_panel_with_tower" ],
     [ "IStateChange", "interface_i_state_change.html", "interface_i_state_change" ],
     [ "StartGameManager", "class_start_game_manager.html", "class_start_game_manager" ],

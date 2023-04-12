@@ -1,7 +1,7 @@
 var searchData=
 [
   ['second_0',['Second',['../namespace_stats_enums.html#a6cf98e8e5fbba4912c31a77a64c3ecd3ac22cf8376b1893dcfcef0649fe1a7d87',1,'StatsEnums']]],
-  ['selectobject_1',['SelectObject',['../class_interaction_manager.html#a0c07dff93ee47e163322a3d74c61c00a',1,'InteractionManager']]],
+  ['selectobject_1',['SelectObject',['../class_managers_1_1_interaction_manager.html#aa11fe43cf324630ef0c48b4441166ae5',1,'Managers::InteractionManager']]],
   ['sellbuild_2',['SellBuild',['../class_building_manager.html#abde584f081263d93e04697bec9689f2e',1,'BuildingManager']]],
   ['sellcost_3',['sellCost',['../class_config_classes_1_1_building_config_1_1_buildings_config.html#a1c4cf496491fdae85df9f3e23d5a4984',1,'ConfigClasses::BuildingConfig::BuildingsConfig']]],
   ['sendbalancechange_4',['SendBalanceChange',['../class_global_u_i_events_1_1_u_i_events.html#ad96aca507b57af0b8b66f8aacba68a10',1,'GlobalUIEvents::UIEvents']]],
@@ -21,7 +21,7 @@ var searchData=
   ['sortlevels_18',['SortLevels',['../class_buildings_1_1_building.html#afd14d891aede36e350c9511da79edaec',1,'Buildings::Building']]],
   ['special_19',['Special',['../namespace_stats_enums.html#a6cf98e8e5fbba4912c31a77a64c3ecd3ab4c2b550635fe54fd29f2b64dfaca55d',1,'StatsEnums']]],
   ['splashradius_20',['splashRadius',['../class_config_classes_1_1_building_config_1_1_area_tower.html#afe7acc00a5f9281c43eeb8e6154ca59f',1,'ConfigClasses::BuildingConfig::AreaTower']]],
-  ['start_21',['Start',['../class_tactical_point.html#a96ebbe7eb78e24275b56380f613f268d',1,'TacticalPoint.Start()'],['../class_buildings_1_1_combat_tower.html#a26356f333c0761e8193d4426b1e71126',1,'Buildings.CombatTower.Start()'],['../class_interaction_manager.html#a5aeccce37aa229ac2b869727ebd853c6',1,'InteractionManager.Start()'],['../class_start_game_manager.html#aa945b3c9bb8779120fbdbb3e2c34a64b',1,'StartGameManager.Start()']]],
+  ['start_21',['Start',['../class_tactical_point.html#a96ebbe7eb78e24275b56380f613f268d',1,'TacticalPoint.Start()'],['../class_buildings_1_1_combat_tower.html#a26356f333c0761e8193d4426b1e71126',1,'Buildings.CombatTower.Start()'],['../class_managers_1_1_interaction_manager.html#a5497f0c9e6a008e51f4c7edf0022b483',1,'Managers.InteractionManager.Start()'],['../class_start_game_manager.html#aa945b3c9bb8779120fbdbb3e2c34a64b',1,'StartGameManager.Start()']]],
   ['startgamemanager_22',['StartGameManager',['../class_start_game_manager.html',1,'']]],
   ['startgamemanager_2ecs_23',['StartGameManager.cs',['../_start_game_manager_8cs.html',1,'']]],
   ['state_24',['State',['../class_state.html',1,'']]],

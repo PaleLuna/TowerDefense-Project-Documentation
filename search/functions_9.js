@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['selectobject_0',['SelectObject',['../class_interaction_manager.html#a0c07dff93ee47e163322a3d74c61c00a',1,'InteractionManager']]],
+  ['selectobject_0',['SelectObject',['../class_managers_1_1_interaction_manager.html#aa11fe43cf324630ef0c48b4441166ae5',1,'Managers::InteractionManager']]],
   ['sellbuild_1',['SellBuild',['../class_building_manager.html#abde584f081263d93e04697bec9689f2e',1,'BuildingManager']]],
   ['sendbalancechange_2',['SendBalanceChange',['../class_global_u_i_events_1_1_u_i_events.html#ad96aca507b57af0b8b66f8aacba68a10',1,'GlobalUIEvents::UIEvents']]],
   ['sendbuttonclick_3',['SendButtonClick',['../class_global_u_i_events_1_1_u_i_events.html#ac5fe77d90f736a5374a67c79d5c15028',1,'GlobalUIEvents::UIEvents']]],
@@ -17,7 +17,7 @@ var searchData=
   ['setnextlevel_14',['SetNextLevel',['../class_buildings_1_1_building.html#a287e11c0924ab6216797612cf1f46cf4',1,'Buildings::Building']]],
   ['setparent_15',['SetParent',['../class_buildings_1_1_enemy_detector.html#a8c7eafd62734184bd41f3b50e789d85c',1,'Buildings::EnemyDetector']]],
   ['sortlevels_16',['SortLevels',['../class_buildings_1_1_building.html#afd14d891aede36e350c9511da79edaec',1,'Buildings::Building']]],
-  ['start_17',['Start',['../class_tactical_point.html#a96ebbe7eb78e24275b56380f613f268d',1,'TacticalPoint.Start()'],['../class_buildings_1_1_combat_tower.html#a26356f333c0761e8193d4426b1e71126',1,'Buildings.CombatTower.Start()'],['../class_interaction_manager.html#a5aeccce37aa229ac2b869727ebd853c6',1,'InteractionManager.Start()'],['../class_start_game_manager.html#aa945b3c9bb8779120fbdbb3e2c34a64b',1,'StartGameManager.Start()']]],
+  ['start_17',['Start',['../class_tactical_point.html#a96ebbe7eb78e24275b56380f613f268d',1,'TacticalPoint.Start()'],['../class_buildings_1_1_combat_tower.html#a26356f333c0761e8193d4426b1e71126',1,'Buildings.CombatTower.Start()'],['../class_managers_1_1_interaction_manager.html#a5497f0c9e6a008e51f4c7edf0022b483',1,'Managers.InteractionManager.Start()'],['../class_start_game_manager.html#aa945b3c9bb8779120fbdbb3e2c34a64b',1,'StartGameManager.Start()']]],
   ['statestart_18',['StateStart',['../class_buildings_1_1_tower_states_1_1_tower_chill.html#a1a8b6348808cf986d6a8f9cb40bd24eb',1,'Buildings.TowerStates.TowerChill.StateStart()'],['../class_buildings_1_1_tower_states_1_1_tower_combat.html#ad458a032adee2e911970d4f5be4e4298',1,'Buildings.TowerStates.TowerCombat.StateStart()'],['../class_state.html#aed54675478cf45270389fee20bb40dd8',1,'State.StateStart()'],['../class_buildings_1_1_tower_states_1_1_tower_state.html#a29520c9181d82d0e4bde83a2c63c7664',1,'Buildings.TowerStates.TowerState.StateStart()']]],
   ['statestop_19',['StateStop',['../class_buildings_1_1_tower_states_1_1_tower_chill.html#aa75e0b2cdc2b9caa584cc154a0ea4e00',1,'Buildings.TowerStates.TowerChill.StateStop()'],['../class_buildings_1_1_tower_states_1_1_tower_combat.html#af7338dc1f8a33a989da157b11660ea57',1,'Buildings.TowerStates.TowerCombat.StateStop()'],['../class_state.html#aefd591d99bfc690d5d280906e5e99241',1,'State.StateStop()'],['../class_buildings_1_1_tower_states_1_1_tower_state.html#a7621cce46c175a3e36b97dcc93fce41c',1,'Buildings.TowerStates.TowerState.StateStop()']]],
   ['subfromcurrentbalance_20',['SubFromCurrentBalance',['../class_wallet_script.html#a71c3baa3175f0e492ce0d1fb027643f8',1,'WalletScript']]]
