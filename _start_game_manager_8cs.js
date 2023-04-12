@@ -1,4 +1,4 @@
 var _start_game_manager_8cs =
 [
-    [ "StartGameManager", "class_start_game_manager.html", "class_start_game_manager" ]
+    [ "Managers.StartGameManager", "class_managers_1_1_start_game_manager.html", "class_managers_1_1_start_game_manager" ]
 ];

@@ -37,12 +37,12 @@ var searchData=
   ['_5fsellcost_34',['_sellCost',['../class_config_classes_1_1_building_config_1_1_buildings_config.html#a3bfe182aa79f58c10fc82d04bb2f4a9b',1,'ConfigClasses::BuildingConfig::BuildingsConfig']]],
   ['_5fsplashradius_35',['_splashRadius',['../class_config_classes_1_1_building_config_1_1_area_tower.html#a405a99e9a957eafb5c49ed6410ddd598',1,'ConfigClasses::BuildingConfig::AreaTower']]],
   ['_5fspriterenderer_36',['_spriteRenderer',['../class_buildings_1_1_building.html#aae218801c473d86dabd3cbd55bff0f61',1,'Buildings::Building']]],
-  ['_5fstartbalance_37',['_startBalance',['../class_start_game_manager.html#a336c790be37d7aaafdd940563f4964be',1,'StartGameManager']]],
+  ['_5fstartbalance_37',['_startBalance',['../class_managers_1_1_start_game_manager.html#a09d2768d00348770b5137102b7484370',1,'Managers::StartGameManager']]],
   ['_5fthistowerdamagetype_38',['_thisTowerDamageType',['../class_config_classes_1_1_building_config_1_1_expanded_tower.html#a1e221db7db40515e12b0aac0247302b0',1,'ConfigClasses::BuildingConfig::ExpandedTower']]],
   ['_5ftowerlevel_39',['_towerLevel',['../class_config_classes_1_1_building_config_1_1_buildings_config.html#a0a9a4b2b433d82a21bd318dc4b338f5d',1,'ConfigClasses::BuildingConfig::BuildingsConfig']]],
   ['_5ftowerlevels_40',['_towerLevels',['../class_buildings_1_1_building.html#a849d062251ca6d4503a873e820fee9be',1,'Buildings::Building']]],
   ['_5ftowermanager_41',['_towerManager',['../class_interaction_panel_with_tower.html#a01a15bd0a32b2f4a350cd39d90a3c4c2',1,'InteractionPanelWithTower']]],
   ['_5ftowersprite_42',['_towerSprite',['../class_config_classes_1_1_building_config_1_1_buildings_config.html#ad8837c30951e07b3d579e34f0aba20ac',1,'ConfigClasses::BuildingConfig::BuildingsConfig']]],
   ['_5funitcount_43',['_unitCount',['../class_config_classes_1_1_building_config_1_1_barracks.html#af502c7ddafad99304f57675108b3462c',1,'ConfigClasses::BuildingConfig::Barracks']]],
-  ['_5fwalletscript_44',['_walletScript',['../class_start_game_manager.html#abc211d2f67b21b9d21bbfba9de605480',1,'StartGameManager']]]
+  ['_5fwalletscript_44',['_walletScript',['../class_managers_1_1_start_game_manager.html#a35d9b741e411048b3ce31e3973eddd63',1,'Managers::StartGameManager']]]
 ];

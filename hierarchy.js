@@ -27,7 +27,7 @@ var hierarchy =
       [ "InteractionPanelWithTower", "class_interaction_panel_with_tower.html", null ],
       [ "Managers.BuildingManager", "class_managers_1_1_building_manager.html", null ],
       [ "Managers.InteractionManager", "class_managers_1_1_interaction_manager.html", null ],
-      [ "StartGameManager", "class_start_game_manager.html", null ],
+      [ "Managers.StartGameManager", "class_managers_1_1_start_game_manager.html", null ],
       [ "State", "class_state.html", null ],
       [ "TacticalPoint", "class_tactical_point.html", null ],
       [ "TowerSelectionPanel", "class_tower_selection_panel.html", null ],
