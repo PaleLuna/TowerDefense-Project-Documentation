@@ -14,5 +14,6 @@ var namespaces_dup =
         [ "Special", "namespace_stats_enums.html#a6cf98e8e5fbba4912c31a77a64c3ecd3ab4c2b550635fe54fd29f2b64dfaca55d", null ]
       ] ]
     ] ],
-    [ "Structs", "namespace_structs.html", "namespace_structs" ]
+    [ "Structs", "namespace_structs.html", "namespace_structs" ],
+    [ "Unit", "namespace_unit.html", "namespace_unit" ]
 ];

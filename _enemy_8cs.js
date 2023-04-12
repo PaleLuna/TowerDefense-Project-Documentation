@@ -1,4 +1,4 @@
 var _enemy_8cs =
 [
-    [ "Enemy", "class_enemy.html", null ]
+    [ "Unit.EnemyScrips.Enemy", "class_unit_1_1_enemy_scrips_1_1_enemy.html", null ]
 ];

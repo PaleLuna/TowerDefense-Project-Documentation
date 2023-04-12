@@ -37,9 +37,14 @@ var annotated_dup =
     [ "Structs", "namespace_structs.html", [
       [ "Damage", "struct_structs_1_1_damage.html", "struct_structs_1_1_damage" ]
     ] ],
+    [ "Unit", "namespace_unit.html", [
+      [ "EnemyScrips", "namespace_unit_1_1_enemy_scrips.html", [
+        [ "Enemy", "class_unit_1_1_enemy_scrips_1_1_enemy.html", null ]
+      ] ],
+      [ "Unit", "class_unit_1_1_unit.html", null ]
+    ] ],
     [ "CombatRadiusVisualizer", "class_combat_radius_visualizer.html", "class_combat_radius_visualizer" ],
     [ "DisplayingBalance", "class_displaying_balance.html", "class_displaying_balance" ],
-    [ "Enemy", "class_enemy.html", null ],
     [ "IInteractable", "interface_i_interactable.html", "interface_i_interactable" ],
     [ "InteractionPanelWithTower", "class_interaction_panel_with_tower.html", "class_interaction_panel_with_tower" ],
     [ "IStateChange", "interface_i_state_change.html", "interface_i_state_change" ],

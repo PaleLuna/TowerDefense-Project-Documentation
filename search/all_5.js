@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['enemy_0',['Enemy',['../class_enemy.html',1,'']]],
+  ['enemy_0',['Enemy',['../class_unit_1_1_enemy_scrips_1_1_enemy.html',1,'Unit::EnemyScrips']]],
   ['enemy_2ecs_1',['Enemy.cs',['../_enemy_8cs.html',1,'']]],
   ['enemydetector_2',['EnemyDetector',['../class_buildings_1_1_enemy_detector.html',1,'Buildings']]],
   ['enemydetector_3',['enemyDetector',['../class_buildings_1_1_building.html#abd3b7180a42b3da5721ef0e4345d155d',1,'Buildings::Building']]],

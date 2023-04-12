@@ -22,7 +22,6 @@ var hierarchy =
       [ "Buildings.EnemyDetector", "class_buildings_1_1_enemy_detector.html", null ],
       [ "CombatRadiusVisualizer", "class_combat_radius_visualizer.html", null ],
       [ "DisplayingBalance", "class_displaying_balance.html", null ],
-      [ "Enemy", "class_enemy.html", null ],
       [ "GlobalUIEvents.UIEvents", "class_global_u_i_events_1_1_u_i_events.html", null ],
       [ "InteractionPanelWithTower", "class_interaction_panel_with_tower.html", null ],
       [ "Managers.BuildingManager", "class_managers_1_1_building_manager.html", null ],
@@ -31,6 +30,9 @@ var hierarchy =
       [ "State", "class_state.html", null ],
       [ "TacticalPoint", "class_tactical_point.html", null ],
       [ "TowerSelectionPanel", "class_tower_selection_panel.html", null ],
+      [ "Unit.Unit", "class_unit_1_1_unit.html", [
+        [ "Unit.EnemyScrips.Enemy", "class_unit_1_1_enemy_scrips_1_1_enemy.html", null ]
+      ] ],
       [ "WalletScript", "class_wallet_script.html", null ]
     ] ],
     [ "Orientation.Orientation", "class_orientation_1_1_orientation.html", null ],
