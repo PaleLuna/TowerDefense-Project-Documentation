@@ -2,7 +2,7 @@ var searchData=
 [
   ['second_0',['Second',['../namespace_stats_enums.html#a6cf98e8e5fbba4912c31a77a64c3ecd3ac22cf8376b1893dcfcef0649fe1a7d87',1,'StatsEnums']]],
   ['selectobject_1',['SelectObject',['../class_managers_1_1_interaction_manager.html#aa11fe43cf324630ef0c48b4441166ae5',1,'Managers::InteractionManager']]],
-  ['sellbuild_2',['SellBuild',['../class_building_manager.html#abde584f081263d93e04697bec9689f2e',1,'BuildingManager']]],
+  ['sellbuild_2',['SellBuild',['../class_managers_1_1_building_manager.html#aec1f4958916b64185be52491ef3cc8a9',1,'Managers::BuildingManager']]],
   ['sellcost_3',['sellCost',['../class_config_classes_1_1_building_config_1_1_buildings_config.html#a1c4cf496491fdae85df9f3e23d5a4984',1,'ConfigClasses::BuildingConfig::BuildingsConfig']]],
   ['sendbalancechange_4',['SendBalanceChange',['../class_global_u_i_events_1_1_u_i_events.html#ad96aca507b57af0b8b66f8aacba68a10',1,'GlobalUIEvents::UIEvents']]],
   ['sendbuttonclick_5',['SendButtonClick',['../class_global_u_i_events_1_1_u_i_events.html#ac5fe77d90f736a5374a67c79d5c15028',1,'GlobalUIEvents::UIEvents']]],

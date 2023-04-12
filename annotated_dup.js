@@ -27,6 +27,7 @@ var annotated_dup =
       [ "UIEvents", "class_global_u_i_events_1_1_u_i_events.html", "class_global_u_i_events_1_1_u_i_events" ]
     ] ],
     [ "Managers", "namespace_managers.html", [
+      [ "BuildingManager", "class_managers_1_1_building_manager.html", "class_managers_1_1_building_manager" ],
       [ "InteractionManager", "class_managers_1_1_interaction_manager.html", "class_managers_1_1_interaction_manager" ]
     ] ],
     [ "Orientation", "namespace_orientation.html", [
@@ -35,7 +36,6 @@ var annotated_dup =
     [ "Structs", "namespace_structs.html", [
       [ "Damage", "struct_structs_1_1_damage.html", "struct_structs_1_1_damage" ]
     ] ],
-    [ "BuildingManager", "class_building_manager.html", "class_building_manager" ],
     [ "CombatRadiusVisualizer", "class_combat_radius_visualizer.html", "class_combat_radius_visualizer" ],
     [ "DisplayingBalance", "class_displaying_balance.html", "class_displaying_balance" ],
     [ "Enemy", "class_enemy.html", null ],

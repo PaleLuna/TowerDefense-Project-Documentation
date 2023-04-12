@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['walletscript_0',['walletScript',['../class_building_manager.html#a6e594ecb0b4db6a584e510673fdabc56',1,'BuildingManager']]]
+  ['walletscript_0',['walletScript',['../class_managers_1_1_building_manager.html#a51d0563f6651137d9673885de236942e',1,'Managers::BuildingManager']]]
 ];

@@ -18,7 +18,6 @@ var hierarchy =
       ] ]
     ] ],
     [ "MonoBehaviour", null, [
-      [ "BuildingManager", "class_building_manager.html", null ],
       [ "Buildings.Building", "class_buildings_1_1_building.html", null ],
       [ "Buildings.EnemyDetector", "class_buildings_1_1_enemy_detector.html", null ],
       [ "CombatRadiusVisualizer", "class_combat_radius_visualizer.html", null ],
@@ -26,6 +25,7 @@ var hierarchy =
       [ "Enemy", "class_enemy.html", null ],
       [ "GlobalUIEvents.UIEvents", "class_global_u_i_events_1_1_u_i_events.html", null ],
       [ "InteractionPanelWithTower", "class_interaction_panel_with_tower.html", null ],
+      [ "Managers.BuildingManager", "class_managers_1_1_building_manager.html", null ],
       [ "Managers.InteractionManager", "class_managers_1_1_interaction_manager.html", null ],
       [ "StartGameManager", "class_start_game_manager.html", null ],
       [ "State", "class_state.html", null ],

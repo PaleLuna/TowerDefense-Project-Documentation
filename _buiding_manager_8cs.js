@@ -1,4 +1,4 @@
 var _buiding_manager_8cs =
 [
-    [ "BuildingManager", "class_building_manager.html", "class_building_manager" ]
+    [ "Managers.BuildingManager", "class_managers_1_1_building_manager.html", "class_managers_1_1_building_manager" ]
 ];

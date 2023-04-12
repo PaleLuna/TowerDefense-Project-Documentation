@@ -1,7 +1,7 @@
 var searchData=
 [
   ['selectobject_0',['SelectObject',['../class_managers_1_1_interaction_manager.html#aa11fe43cf324630ef0c48b4441166ae5',1,'Managers::InteractionManager']]],
-  ['sellbuild_1',['SellBuild',['../class_building_manager.html#abde584f081263d93e04697bec9689f2e',1,'BuildingManager']]],
+  ['sellbuild_1',['SellBuild',['../class_managers_1_1_building_manager.html#aec1f4958916b64185be52491ef3cc8a9',1,'Managers::BuildingManager']]],
   ['sendbalancechange_2',['SendBalanceChange',['../class_global_u_i_events_1_1_u_i_events.html#ad96aca507b57af0b8b66f8aacba68a10',1,'GlobalUIEvents::UIEvents']]],
   ['sendbuttonclick_3',['SendButtonClick',['../class_global_u_i_events_1_1_u_i_events.html#ac5fe77d90f736a5374a67c79d5c15028',1,'GlobalUIEvents::UIEvents']]],
   ['senddeselectblock_4',['SendDeselectBlock',['../class_global_u_i_events_1_1_u_i_events.html#a5894185f47e8192d83737cab3a00a60f',1,'GlobalUIEvents::UIEvents']]],
